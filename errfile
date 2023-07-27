@@ -1,0 +1,58 @@
+
+/home/ec2-user/environment/CertiTrackProject/app/app.js
+   1:19  error  'require' is not defined                      no-undef
+   2:15  error  'require' is not defined                      no-undef
+   3:12  error  'require' is not defined                      no-undef
+   4:20  error  'require' is not defined                      no-undef
+   5:14  error  'require' is not defined                      no-undef
+   6:25  error  'require' is not defined                      no-undef
+   7:14  error  'require' is not defined                      no-undef
+   8:13  error  'require' is not defined                      no-undef
+   9:12  error  'require' is not defined                      no-undef
+  10:19  error  'require' is not defined                      no-undef
+  11:16  error  'require' is not defined                      no-undef
+  12:7   error  'xlsx' is assigned a value but never used     no-unused-vars
+  12:14  error  'require' is not defined                      no-undef
+  16:19  error  'require' is not defined                      no-undef
+  17:19  error  'require' is not defined                      no-undef
+  22:28  error  '__dirname' is not defined                    no-undef
+  29:34  error  '__dirname' is not defined                    no-undef
+  45:33  error  'next' is defined but never used              no-unused-vars
+  55:1   error  'module' is not defined                       no-undef
+  57:30  error  'require' is not defined                      no-undef
+  95:13  error  'adminDb' is assigned a value but never used  no-unused-vars
+
+/home/ec2-user/environment/CertiTrackProject/app/public/assets/bootstrap/js/bootstrap.min.js
+  6:69     error  'module' is not defined                                                    no-undef
+  6:115    error  'define' is not defined                                                    no-undef
+  6:126    error  'define' is not defined                                                    no-undef
+  6:22603  error  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  6:26459  error  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  6:26483  error  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  6:60380  error  Expected a conditional expression and instead saw an assignment            no-cond-assign
+
+/home/ec2-user/environment/CertiTrackProject/app/public/assets/js/bs-init.js
+  15:6  error  'hoverAnimationList' is assigned a value but never used  no-unused-vars
+
+/home/ec2-user/environment/CertiTrackProject/app/routes/index.js
+   1:15  error  'require' is not defined          no-undef
+   5:36  error  'next' is defined but never used  no-unused-vars
+  10:37  error  'next' is defined but never used  no-unused-vars
+  14:43  error  'next' is defined but never used  no-unused-vars
+  18:41  error  'next' is defined but never used  no-unused-vars
+  22:47  error  'next' is defined but never used  no-unused-vars
+  26:48  error  'next' is defined but never used  no-unused-vars
+  31:1   error  'module' is not defined           no-undef
+
+/home/ec2-user/environment/CertiTrackProject/app/routes/users.js
+  1:15  error  'require' is not defined          no-undef
+  5:36  error  'next' is defined but never used  no-unused-vars
+  9:1   error  'module' is not defined           no-undef
+
+/home/ec2-user/environment/CertiTrackProject/app/upload.js
+   1:14  error  'require' is not defined  no-undef
+   2:21  error  'require' is not defined  no-undef
+  50:1   error  'module' is not defined   no-undef
+
+✖ 43 problems (43 errors, 0 warnings)
+
